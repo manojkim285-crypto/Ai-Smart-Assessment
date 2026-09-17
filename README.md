@@ -1,2 +1,7 @@
-# Ai-Smart-Assessment
-AI Smart Assessment Tool is an AI-powered platform that provides adaptive quizzes, instant feedback, and personalized performance analysis to improve student learning.
+# AI Smart Assessment
+
+An AI-powered adaptive assessment tool for smart learning.
+
+## Project Demo
+
+[Click here to view the project](https://ai-smart-assessment.onrender.com/)
